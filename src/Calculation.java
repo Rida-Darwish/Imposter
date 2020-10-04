@@ -4,7 +4,7 @@ public class Calculation {
     public static int multiply(int x, int y){ return x*y; }
 
     //methof that returns the sum of 2 numbers
-    public static int addition(int x, int y){return x + y;}
+    public static int addition(int x, int y){ return x + y; }
 
     //method that returns the quotient of 2 numebrs
     public static int divide(int x, int y){ return x/y; }
